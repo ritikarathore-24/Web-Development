@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Application Form</title>
+  </head>
+  <body>
+    <form action="">
+      <caption>
+        <h1>APPLICATION FORM</h1>
+      </caption>
+      <p>
+        Thank you for your interest in working with us. Please check below for
+        available job opportunities that meet your criteria and send your
+        application by filling out the Job Application Form.
+      </p>
+      <div>*Full Name: <input type="text" name="f_name" id="full_name" required/></div>
+      <br />
+      <div>*Email: <input type="email" name="email" id="email" required/></div>
+      <br />
+      <div>
+        *Mobile Number: <input type="number" name="mobile_no" id="mobile_no" required />
+      </div>
+      <br />
+      <div>
+        *Age: <input type="number" name="age" id="age" required>
+      </div>
+      <br>
+      <div>
+        Which option best describes your current role?
+        <select name="job_role" id="job_role">
+            <option value="student">Student</option>
+            <option value="software_Engineer">Software Engineer</option>
+            <option value="web_developer">Web Developer</option>
+            <option value="software_developer">Software Developer</option>
+            <option value="data_scientist">Data Scientist</option>
+        </select>
+      </div>
+      <br>
+      <fieldset>
+        <Legend>*Would you like to list references?</Legend>
+         <div>Yes<input type="radio" name="yes" id="reference"></div>
+         <div>No<input type="radio" name="no" id="reference"></div>
+      </fieldset>
+      <br>
+      <div>
+        Which position would you like to apply for?
+        <select name="position" id="position">
+            <option value="">Select an option</option>
+            <option value="student">Student</option>
+            <option value="software_Engineer">Software Engineer</option>
+            <option value="web_developer">Web Developer</option>
+            <option value="software_developer">Software Developer</option>
+            <option value="data_scientist">Data Scientist</option>
+        </select>
+      </div>
+      <br>
+        <fieldset>
+        <legend>Which programming languages do you know?</legend>
+        <div><input type="checkbox" name="language" id="language">Java</div>
+        <div><input type="checkbox" name="language" id="language">Python</div>
+        <div><input type="checkbox" name="language" id="language">JavaScript</div>
+        <div><input type="checkbox" name="language" id="language">C++</div>
+        <div><input type="checkbox" name="language" id="language">Swift</div>
+        <div><input type="checkbox" name="language" id="language">Ruby</div>
+        <div><input type="checkbox" name="language" id="language">.NET</div>
+      </fieldset>
+      <br>
+      <div>
+        Any Comments?
+        <textarea name="comment" id="comment" cols="50" rows="3"></textarea>
+      </div><br>
+      <input type="submit" value="Submit Information">
+    </form>
+  </body>
+</html>
