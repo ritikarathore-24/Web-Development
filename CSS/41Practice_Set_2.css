@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#bar{
+    color :rgba(126, 216, 216, 0.40);
+    background-color: olivedrab;
+}
+main {
+    background-color: lightpink;
+}
+#img{
+    height: 300px;
+    width: 300px;
+    background-image: url(../images/ChatGPT\ Image\ Jan\ 1\,\ 2026\,\ 04_53_58\ PM.png);
+    background-color: grey;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
