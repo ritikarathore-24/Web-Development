@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position Property: Z-Index</title>
+    <style>
+        .box {
+            height: 20vh;
+            width: 15vw;
+            border: 3px solid black;
+            border-radius: 40px;
+            text-align: center;
+            text-decoration: underline;
+            text-decoration-style: wavy;
+        }
+        #box0 {
+            background-color: peru;
+            position: absolute;
+            right: 1125px;
+        }
+        #box1 {
+            background-color: rosybrown;
+            position: absolute;
+            left: 90px;
+            top: 70px;
+            z-index: 1;
+        }
+        #box2 {
+            background-color: powderblue;
+            position: absolute;
+            top: 130px;
+            z-index: 2;
+        }
+    </style>
+</head>
+<body>
+    <div id="box0" class="box">Z-index 0</div>
+    <div id="box1" class="box">Z-index 1</div>
+    <div id="box2" class="box">Z-index 2</div>
+</body>
+</html>
