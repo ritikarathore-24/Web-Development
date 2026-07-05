@@ -211,6 +211,34 @@ This repository documents my complete journey of learning **Web Development from
 
 - Practice Set 5
 
+## Day 10 - Float Property and Flexbox Properties 
+
+### Topics Covered
+
+- Float Property
+- Flexbox theory
+- Flex Container
+- Flex Items
+
+### Flex Container Properties
+
+- Flex Direction
+- Justify Content
+- Flex Wrap
+- Align Items
+- Align Content
+
+### Flex Items Properties
+
+- Align Self
+- Flex Shrink
+- Flex Grow
+- Order 
+
+### Practice
+
+- Practice Set 6
+
 # Repository Structure
 
 Web Development Practice/
