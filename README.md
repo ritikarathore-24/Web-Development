@@ -239,6 +239,36 @@ This repository documents my complete journey of learning **Web Development from
 
 - Practice Set 6
 
+## Day 11 - Grid Layout and Media Queries
+
+### Topics Covered
+
+- Difference between flexbox and grid
+- Grid Theory 
+- Media Queries
+
+### Grid Layout Properties
+
+- Grid Template Columns
+- Grid Template Rows
+- Grid Columns
+- Grid Rows
+
+### Media Queries 
+
+- Screen Type
+- Different Conditions 
+  - Width
+  - Min Width
+  - Max Width
+  - Combine Min Width and Max Width
+
+### Practice
+
+- Practice Set 7
+
+
+
 # Repository Structure
 
 Web Development Practice/
