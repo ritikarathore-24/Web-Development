@@ -1,0 +1,16 @@
+.box {
+    height: 500px;
+    width: 500px;
+    padding: 10px;
+    background-color: purple;
+}
+@media screen and (min-width: 500px) and (max-width: 700px){
+    .box {
+        height: 100px;
+        width: 100px;
+        background-color: brown;
+        border: 2px solid black;
+        text-align: center;
+        text-transform: uppercase;
+    }  
+}
