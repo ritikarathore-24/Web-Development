@@ -1,0 +1,37 @@
+.box {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+
+    transition: all 2s ease-in; 
+}
+#box1 {
+    background-color: rgb(80, 5, 80);
+}
+#box1:hover {
+    transform: translate(50px);
+}
+#box2 {
+     background-color: rgb(159, 23, 159);
+}
+#box2:hover {
+    transform: translateX(-100px);
+}
+#box3 {
+    background-color: rgb(159, 76, 159);
+
+}
+#box3:hover {
+    transform: translateY(200px);
+}
+#box4 {
+    background-color: plum;
+}
+#box4:hover {
+    transform: translate(100px, 200px);
+}
+
