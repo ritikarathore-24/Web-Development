@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(126, 79, 126);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+.progress_container {
+    height: 30px;
+    width: 90vw;
+    border: 1px solid blue;
+    border-radius: 40px;
+    position: relative;
+    left: 4%;
+}
+
+.bar {
+    background-color: rgb(6, 70, 95);
+    height: 100%;
+    border-radius: 40px;
+    animation: progress 3s ease-in-out 0.2s 1 normal;
+}
+
+@keyframes progress {
+    0% {
+        width: 0%;
+    }
+    90% {
+        width: 99%;
+    }
+    95% {
+        width: 10%;
+    }
+    100% {
+        width: 100%;
+    }
+}
+

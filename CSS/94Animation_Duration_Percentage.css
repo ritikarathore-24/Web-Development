@@ -1,0 +1,31 @@
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: thistle;
+    border: 5px solid rgb(157, 22, 157);
+    text-align: center;
+    color: rgb(157, 22, 157);
+    font-size: 30px;
+    position: absolute;
+
+    /* Using Animation in our project */
+    animation: rounding 2s ease-in-out 0.2s infinite alternate
+}
+
+
+/* Generating Animation Template */
+
+@keyframes rounding {
+   0% {
+    top: 0px;
+    left: -80px;
+   }
+   50% {
+    left: 700px;
+    top: 700px;
+   }
+   100% {
+    left: 1400px;
+    top: 0px;
+   }
+}

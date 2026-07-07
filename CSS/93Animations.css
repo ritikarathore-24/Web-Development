@@ -1,0 +1,29 @@
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: thistle;
+    border: 5px solid rgb(157, 22, 157);
+    text-align: center;
+    color: rgb(157, 22, 157);
+    font-size: 30px;
+
+    /* Using Animation in our project */
+    animation-name: rounding;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 0.2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+
+/* Generating Animation Template */
+
+@keyframes rounding {
+    from { 
+        transform: translate(20px);
+    }
+    to {
+        transform: translate(1000px);
+    }
+}
