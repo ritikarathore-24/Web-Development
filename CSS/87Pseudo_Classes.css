@@ -1,0 +1,18 @@
+#btn {
+    height: 100px;
+    width: 300px;
+    border: 2px solid navy;
+    background-color: rgb(146, 146, 217);
+    font-weight: bold;
+}
+#btn:hover {
+    border-radius: 40px;
+    border: 2px solid red;
+    background-color: gray;
+}
+#btn:active {
+    border: 2px solid rgba(77, 128, 0, 0.811);
+    border-radius: 50%;
+    background-color: rgba(153, 188, 102, 0.811);
+    color:rgba(77, 128, 0, 0.811);
+}
