@@ -267,7 +267,40 @@ This repository documents my complete journey of learning **Web Development from
 
 - Practice Set 7
 
+## Day 12 - Pseudo Classes, Transitions, CSS Transforms and Animations
 
+### Topics Covered
+
+- Pseudo Classes (Hover, Actice, etc.)
+- Transition Properties
+- CSS Transforms
+- Animations
+
+### Transition Properties
+
+- Transition Duration
+- Transition Timing Function
+- Transition Delay
+
+### CSS Transforms
+
+- Rotate
+- Translate
+- Scale
+- Skew
+
+### Animation Properties
+
+- Animation Name
+- Animation Duration
+- Animation Timing Function
+- Animation Delay
+- Animation Iteration Count 
+- Animation Direction
+
+### Practice
+
+- Practice Set 8
 
 # Repository Structure
 
