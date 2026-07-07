@@ -271,7 +271,7 @@ This repository documents my complete journey of learning **Web Development from
 
 ### Topics Covered
 
-- Pseudo Classes (Hover, Actice, etc.)
+- Pseudo Classes (Hover, Active, etc.)
 - Transition Properties
 - CSS Transforms
 - Animations
