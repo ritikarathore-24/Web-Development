@@ -356,6 +356,14 @@ Web Development Practice/
 - Master React.js.
 - Become a Full Stack Web Developer.
 
+# Certificates 
+
+### HTML Certificate:
+
+<a href="certificates/HTML Certificate.pdf">
+  <img src="certificates/HTML Certificate Image.jpg" alt="HTML Certificate" width="800">
+</a>
+
 ## Note
 
 This repository is updated regularly as I continue my Web Development journey. Every new concept, practice file, assignment, and project will be added here to track my progress and improve my skills.
