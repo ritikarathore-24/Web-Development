@@ -331,7 +331,7 @@ Web Development Practice/
   </tr>
   <tr>
     <td>CSS3</td>
-    <td>In Progress</td>
+    <td>Completed</td>
   </tr>
   <tr>
     <td>JavaScript </td>
