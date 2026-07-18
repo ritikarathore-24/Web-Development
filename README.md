@@ -364,6 +364,10 @@ Web Development Practice/
   <img src="certificates/HTML Certificate Image.jpg" alt="HTML Certificate" width="800">
 </a>
 
+---
+
+#### Verification Link: https://www.knowledgegate.ai/certificate/3CCDD0B1
+
 ## Note
 
 This repository is updated regularly as I continue my Web Development journey. Every new concept, practice file, assignment, and project will be added here to track my progress and improve my skills.
