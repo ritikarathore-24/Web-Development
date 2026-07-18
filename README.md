@@ -368,6 +368,20 @@ Web Development Practice/
 
 #### Verification Link: https://www.knowledgegate.ai/certificate/3CCDD0B1
 
+---
+
+### CSS Certificate:
+
+<a href="certificates/CSS Certificate.pdf">
+  <img src="certificates/CSS Certificate Image.jpg" alt="CSS Certificate" width="800">
+</a>
+
+---
+
+#### Verification Link: https://www.knowledgegate.ai/certificate/5FF350B3
+
+---
+
 ## Note
 
 This repository is updated regularly as I continue my Web Development journey. Every new concept, practice file, assignment, and project will be added here to track my progress and improve my skills.
